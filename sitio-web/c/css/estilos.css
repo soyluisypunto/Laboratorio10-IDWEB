@@ -71,3 +71,18 @@ body{
     margin: 0;
     padding: 0;
 }
+#bloque-flex-servicios{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: 20px;
+}
+.bloque-servicios{
+    background-color: rgb(210, 221, 230);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding: 20px 30px;
+    margin: 2.5px;
+    color:black;
+}
