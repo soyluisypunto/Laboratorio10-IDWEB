@@ -86,3 +86,15 @@ body{
     margin: 2.5px;
     color:black;
 }
+.bloque-portafolio{
+    display: flex;
+    background-color: rgb(210, 221, 230);
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 25px;
+    text-align: center;
+}
+#bloque-flex-portafolio{
+    justify-content: center;
+    justify-items: center;
+}
