@@ -98,3 +98,17 @@ body{
     justify-content: center;
     justify-items: center;
 }
+#bloque-flex-nosotros{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 5px;
+}
+#bloque-flex-nosotros [class^="bloque"]{
+    color: black;
+    text-align: center;
+    background-color: rgb(210, 221, 230);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px 20px;
+    margin: 70px;
+}
